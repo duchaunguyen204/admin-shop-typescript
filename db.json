@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "name": "Iphone 11",
+      "price": 8996,
+      "image": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Chuột Logitech G102",
+      "description": "Description of Product 2",
+      "price": "399,000",
+      "image": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+      "discount": 15
+    },
+    {
+      "name": "Iphone X",
+      "price": 123456,
+      "image": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+      "id": "dd70"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin123@gmail.com",
+      "password": "$2a$10$gAgP1kf1Z2CUnA5q2QFG3.OKAPY8/A0nH/3q0ler5Knd57D9vdp2.",
+      "username": "haudep",
+      "id": 1
+    },
+    {
+      "email": "hans.kors@divinenf.com",
+      "password": "$2a$10$oo/y.7JOFxNT3p6l/1ECs.tf7W1we8VaQwKvV8Zyg/8K4mweAgkSu",
+      "username": "haudep",
+      "id": 2
+    },
+    {
+      "email": "haundph34804@fpt.edu.vn",
+      "password": "$2a$10$rjNNPkZXLvTZIdLQS5O4pOSRfwsK9sAMriLprFcDTW4/J4e3eVS6S",
+      "username": "haudep",
+      "id": 3
+    },
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$Ixb/bjqCkbgjyGwsid7IlunchgDKCDjYxm1oid56fGWLuxsecdOra",
+      "username": "haudepzaivcl123",
+      "id": 4
+    }
+  ]
+}
